@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ConsumoCombustivel">
         <activity
-            android:name=".MessageActivity"
+            android:name=".ResponseActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
